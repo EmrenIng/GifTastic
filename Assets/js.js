@@ -8,7 +8,7 @@ $(document).ready(function() {
     function displayInfo() {
         var apiKey = "CmyqdBYqPZwAdUR8zfvfCHarcGRZIDZk";
         var topic = $(this).attr("topic-name");
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + topic + "&api_key=" + apiKey + "&limit=10";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + topic + "&api_key=" + apiKey + "&limit=10";
 
         //AJAX and GET 
 
