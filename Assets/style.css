@@ -1,0 +1,33 @@
+/*MAIN*/
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: grey;
+
+}
+.header {
+	font-family: 'Shrikhand', cursive;
+	background-color: #764B8E;
+	font-size: 84px;
+	width: 100%;
+	padding: 10px;
+}
+/*BUTTONS*/
+.topic {
+	background-color: #3D1255;
+	color: #9775AA;
+	font-weight: bold;
+	border-radius: 15px;
+    border: 1px solid #3D1255;
+    padding: 10px;
+    margin: 5px;
+
+}
+/*GIF CONTENT*/
+.userTopic {
+	background-color: #764B8E;
+	width: 200px;
+
+}
+p {
+	padding: 5px;
+}
